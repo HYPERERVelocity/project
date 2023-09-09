@@ -1,7 +1,7 @@
 # project
 This is My Project
  
-<img alt="fig" src="https://1.bp.blogspot.com/drive-storage/APZSt_dKe4dZ-8Z3oP-CcLGe05I3hD6Eb9255ut8R6CdbF7pulNvapPRYIlioJ95qyR-NjtqvEZZfwIP5SVO01g5ibRvlwrdne_xdnX82bd3ow=s16000" />
+<img alt="fig" src="https://www.blogger.com/blog/post/edit/38113236611284912/466178673888157547#" />
 
 ![ScreenShot](https://github.com/i-saumitra/Voice-controlled-MP3-Player/blob/master/screenshot.jpg)
 

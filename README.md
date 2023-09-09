@@ -1,7 +1,7 @@
 # project
 This is My Project
  
-<img alt="Flagship Diagram" src="https://github.com/HYPERERVelocity/project/blob/main/Admin/Admin1.png" />
+<img alt="Flagship Diagram" src="https://photos.app.goo.gl/e54jc127FJsHmfoq5" />
 
 ![ScreenShot](https://github.com/i-saumitra/Voice-controlled-MP3-Player/blob/master/screenshot.jpg)
 

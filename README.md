@@ -9,4 +9,9 @@ This is My Project
    - <img alt="visitorspage" src="https://github.com/HYPERERVelocity/project/blob/main/Admin/Admin1.png" />
    - <img alt="visitorspage" src="https://drive.google.com/drive/folders/1qVKcwOsDZmtcVKibPAYaV_mpKVVE9y_b" />
 
-https://drive.google.com/file/d/1faHHl-Ao9piNCoLwtNBITTyLpcsdsx0T/view?usp=sharing
+
+
+<p align="center">
+<img alt="Training time-lapse gif" src="https://github.com/akanimax/BMSG-GAN/blob/master/diagrams/explanatory_video_2.gif" />
+<br>
+</p>

@@ -7,6 +7,6 @@ This is My Project
 
 1. Visitors Page:
    - <img alt="visitorspage" src="https://github.com/HYPERERVelocity/project/blob/main/Admin/Admin1.png" />
-   - <img alt="visitorspage" src="https://drive.google.com/file/d/1faHHl-Ao9piNCoLwtNBITTyLpcsdsx0T/view?usp=sharing" />
+   - <img alt="visitorspage" src="https://drive.google.com/drive/folders/1qVKcwOsDZmtcVKibPAYaV_mpKVVE9y_b" />
 
 https://drive.google.com/file/d/1faHHl-Ao9piNCoLwtNBITTyLpcsdsx0T/view?usp=sharing

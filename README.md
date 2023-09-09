@@ -1,7 +1,7 @@
 # project
 This is My Project
  
-<img alt="Flagship Diagram" src="https://github.com/akanimax/BMSG-GAN/blob/master/diagrams/flagship.png" />
+<img alt="Flagship Diagram" src="https://github.com/HYPERERVelocity/project/blob/main/Admin/Admin1.png" />
 
 
 

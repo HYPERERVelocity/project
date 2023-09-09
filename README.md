@@ -1,9 +1,9 @@
 # project
 This is My Project
  
-<img alt="Flagship Diagram" src="https://www.digiprima.com/files/uw574kcajjmra8tu5una/Best-AI-Image-Generators-in-2023.jpg" />
+<img alt="Flagship Diagram" src="https://github.com/HYPERERVelocity/project/blob/main/Admin/Admin1.png" />
 
-
+![ScreenShot](https://github.com/i-saumitra/Voice-controlled-MP3-Player/blob/master/screenshot.jpg)
 
 1. Visitors Page:
    - <img alt="visitorspage" src="https://github.com/HYPERERVelocity/project/blob/main/Admin/Admin1.png" />

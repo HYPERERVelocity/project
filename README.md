@@ -1,7 +1,7 @@
 # project
 This is My Project
  
-<img alt="fig" src="https://github.com/HYPERERVelocity/project/blob/main/Admin1.png" />
+<img alt="fig" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrUZWb5ScpNHDMS3-g56PkRvOc2mBCqPDkznU4ggLMEjBN0qdmm8847PUId49aGixaYKeWRg5WudfwIIcbjfAXhyw7n5yeZb6SXchyzl85-WPajlkghtHGm5tHXCLPzG_zJPZEQSagTz9k6QbpmrMU2qvUa9lT3R7wqYzS6TFeivmXMmKPZ8Wj_91byNA/w672-h385/Admin1.png" />
 
 ![ScreenShot](https://github.com/i-saumitra/Voice-controlled-MP3-Player/blob/master/screenshot.jpg)
 

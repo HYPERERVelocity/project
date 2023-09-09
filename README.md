@@ -1,7 +1,7 @@
 # project
 This is My Project
  
-<img alt="fig" src="https://photos.app.goo.gl/xDUMB3XE5Ns5ufYB7" />
+<img alt="fig" src="https://github.com/HYPERERVelocity/project/blob/main/Admin1.png" />
 
 ![ScreenShot](https://github.com/i-saumitra/Voice-controlled-MP3-Player/blob/master/screenshot.jpg)
 

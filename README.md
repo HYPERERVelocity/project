@@ -1,7 +1,7 @@
 # project
 This is My Project
  
-<img alt="Flagship Diagram" src="https://photos.app.goo.gl/e54jc127FJsHmfoq5" />
+<img alt="fig" src="https://photos.app.goo.gl/xDUMB3XE5Ns5ufYB7" />
 
 ![ScreenShot](https://github.com/i-saumitra/Voice-controlled-MP3-Player/blob/master/screenshot.jpg)
 

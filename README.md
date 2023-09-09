@@ -1,7 +1,7 @@
 # project
 This is My Project
  
-<img alt="Flagship Diagram" src="https://github.com/HYPERERVelocity/project/blob/main/Admin/Admin1.png" />
+<img alt="Flagship Diagram" src="https://www.digiprima.com/files/uw574kcajjmra8tu5una/Best-AI-Image-Generators-in-2023.jpg" />
 
 
 
